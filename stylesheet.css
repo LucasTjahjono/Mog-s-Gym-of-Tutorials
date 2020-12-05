@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+h1 {
+    text-align: center;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: black
+}
+
+.imagebanner {
+    background-image: url("images/dffoo45.png");
+    padding: 600px 0;
+    background-size: cover;
+}
